@@ -1,0 +1,99 @@
+body{
+  font-family: 'Shadows Into Light', cursive;
+}
+.picture{
+  background-image: url("kids.jpg");
+  background-size: cover;
+  height:100%;
+}
+.heading{
+  color:white;
+  background-color:black;
+  font-size:22px;
+  opacity:0.8;
+  padding-left:20px;
+  padding-bottom:0;
+  width:100%;
+  display:inline-block;
+}
+.buttons{
+  float:right;
+  font-weight: bold;
+  width:30%;
+  color:white;
+}
+.buttons a:link{
+  color:white;
+  font-weight: bold;
+}
+.buttons a:visited{
+  color:white;
+  font-weight: bold;
+}
+.buttons a:hover{
+  background-color: white;
+  color: black;
+}
+
+.written{
+  color:white;
+  text-align:center;
+  line-height:120%;
+  font-size:30px;
+  display:inline-block;
+  width:100%;
+  bottom:0;
+  position: absolute;
+  top:20%;
+}
+.heading2{
+  margin-top:52%;
+  font-size:28px;
+  color:black;
+  text-align:center;
+}
+.picture2{
+  width:100%;
+  margin-top:20px;
+  margin-left:14%;
+  display:inline-block;
+  margin-bottom:20px;
+}
+table.picture2 a.a01:link,a.a01:visited{
+  font-size:30px;
+  color:black;
+}
+.picture2 a.a01:hover{
+  background-color:black;
+  color:white;
+}
+table td{
+  padding:20px;
+  text-align:center;
+}
+#summer{
+  float:right;
+  margin:10px;
+}
+.image{
+  margin:60px;
+  font-size:18px;
+  font-family:sans-serif;
+}
+.footer{
+  font-family: 'Shadows Into Light', cursive;
+  height:400px;;
+  background-color: black;
+  opacity:0.8;
+  color:white;
+}
+.last{
+  width:100%;
+}
+ .last td{
+  text-align:left;
+  font-size:30px;
+}
+ a.a02:link,a.a02:visited{
+  color:white;
+}
